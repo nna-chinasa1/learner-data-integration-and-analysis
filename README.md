@@ -123,5 +123,8 @@ The ten programmes returned by the programme-level query were tied at two unique
 - [SQL script placement guide](sql/README.md)
 - [Screenshot evidence guide](screenshots/README.md)
 
-## Screenshots
-Add genuine screenshots of the source schema, integration query/output, cleaning statements/output, validation checks, EDA outputs and each business-analysis result. Hide credentials and personal information.
+## Screenshot Evidence
+
+Nine screenshots from pgAdmin 4 are included in the `screenshots/` folder. They provide visual evidence of selected stages of the project, including source data profiling, three-table integration, initial validation, data cleaning, post-cleaning validation, exploratory data analysis and business analysis.
+The screenshots complement the SQL scripts and supporting documentation by showing selected queries and their corresponding outputs.
+Personal information and sensitive credentials should not be included in published project materials.
